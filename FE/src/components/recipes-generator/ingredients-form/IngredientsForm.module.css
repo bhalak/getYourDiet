@@ -1,0 +1,15 @@
+.form {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.action {
+  display: flex;
+  justify-content: end;
+}
+
+@media (max-width: 500px) {
+  .action {
+    justify-content: center;
+  }
+}

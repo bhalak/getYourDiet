@@ -1,0 +1,6 @@
+pineapple — weight:500g or quantity:1
+kiwi — weight:150g or quantity:3
+mango — weight:200g or quantity:1
+banana — weight:120g or quantity:2
+orange — weight:130g or quantity:2
+honey — weight:50g or quantity:1

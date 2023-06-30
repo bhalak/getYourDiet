@@ -1,0 +1,9 @@
+carrot — weight:100g or quantity:2
+broccoli — weight:200g or quantity:1
+beef — weight:500g or quantity:1
+bell pepper — weight:150g or quantity:1
+onion — weight:150g or quantity:1
+garlic — weight:10g or quantity:2
+rice — weight:200g or quantity:1
+soy sauce — weight:50g or quantity:1
+cornstarch — weight:10g or quantity:1

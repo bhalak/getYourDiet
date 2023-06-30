@@ -1,0 +1,11 @@
+broccoli — weight:200g or quantity:1
+tomato — weight:200g or quantity:2
+bell pepper — weight:200g or quantity:1
+onion — weight:150g or quantity:1
+garlic — weight:10g or quantity:2
+pasta — weight:200g or quantity:1
+zucchini — weight:200g or quantity:1
+lemon — weight:120g or quantity:1
+olive oil — weight:30g or quantity:1
+salt — weight:5g or quantity:1
+pepper — weight:5g or quantity:1

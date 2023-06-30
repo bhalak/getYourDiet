@@ -1,0 +1,13 @@
+.product-radios {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 30px;
+}
+
+@media (max-width: 768px) {
+  .product-radios {
+    margin-left: 17px;
+    margin-top: 20px;
+  }
+}

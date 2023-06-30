@@ -1,0 +1,12 @@
+{
+  "categories": {
+    "byMeatContent": {
+      "name": "By meat content",
+      "options": ["vegan", "meat"]
+    },
+    "byCourse": {
+      "name": "By course",
+      "options": ["breakfast", "lunch", "dinner", "dessert", "appetizer", "snack"]
+    }
+  }
+}

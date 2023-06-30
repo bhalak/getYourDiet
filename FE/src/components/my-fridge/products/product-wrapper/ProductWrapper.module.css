@@ -1,0 +1,12 @@
+.wrapper {
+  border: 4px solid transparent;
+  cursor: pointer;
+}
+
+.spoiled {
+  border-color: red;
+}
+
+.to-be-spoiled {
+  border-color: orange;
+}

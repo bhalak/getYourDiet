@@ -1,0 +1,12 @@
+.header {
+  background-color: #88d1f3;
+  margin-bottom: 20px;
+}
+
+.primary-nav a:hover {
+  font-weight: bold;
+}
+
+.logo {
+  font-weight: 700;
+}

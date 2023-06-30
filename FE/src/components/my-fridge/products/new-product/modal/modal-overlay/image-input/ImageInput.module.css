@@ -1,0 +1,20 @@
+.image-input {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  align-self: center;
+}
+
+.image-input img {
+  width: 150px;
+  height: 150px;
+}
+
+@media (max-width: 768px) {
+  .image-input {
+  margin-bottom: 20px;
+  }
+}

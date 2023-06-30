@@ -1,0 +1,8 @@
+.button {
+  min-width: 80px;
+}
+
+.button:focus {
+  outline: none;
+  box-shadow: none;
+}

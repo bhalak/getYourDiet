@@ -1,0 +1,20 @@
+.product {
+  background-color: aliceblue;
+  width: 150px;
+  height: 250px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.product div {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+.product img {
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+}

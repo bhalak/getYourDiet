@@ -1,0 +1,45 @@
+.login {
+  width: 90%;
+  max-width: 32rem;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header p {
+  color: rgb(54, 54, 54);
+}
+
+.header strong {
+  color: black;
+}
+
+.error {
+  color: red;
+  height: 1px;
+}
+
+.inputs-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input {
+  width: 80%;
+  align-items: stretch;
+}
+
+.actions {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

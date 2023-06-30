@@ -1,0 +1,41 @@
+.title {
+  font-size:larger;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 768px)  {
+  .card {
+    width: 543px !important;
+  }
+}
+
+@media (min-width: 909px){
+  .card {
+    width: 713px !important;
+  }
+}
+
+@media (min-width: 1121px){
+  .card {
+    width: 883px !important;
+  }
+}
+
+@media (min-width: 1315px) {
+  .card {
+    width: 1052px !important;
+  }
+}
+
+@media (min-width: 1527px) {
+  .card {
+    width: 1222px !important;
+  }
+}
+
+@media (min-width: 1741px) {
+  .card {
+    width: 1393px !important;
+  }
+} 

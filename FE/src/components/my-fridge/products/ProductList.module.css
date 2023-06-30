@@ -1,0 +1,16 @@
+.product-list {
+  display: flex;
+  padding-left: 0%;
+  flex-wrap: wrap;
+}
+
+.product-list li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+@media (max-width: 768px) {
+  .product-list {
+    justify-content: space-around;
+  }
+}

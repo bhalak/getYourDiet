@@ -1,0 +1,11 @@
+.wrapper {
+  width: 100%;
+  background-color: aliceblue;
+  border-radius: 20px;
+  padding: 10px;
+  padding-left: 15px;
+}
+
+.wrapper > div:last-child {
+  margin-bottom: 0px;
+}

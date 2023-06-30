@@ -1,0 +1,78 @@
+.login {
+  width: 90%;
+  max-width: 32rem;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header p {
+  color: rgb(54, 54, 54);
+}
+
+.header strong {
+  color: black;
+}
+
+.error {
+  color: red;
+  height: 1px;
+}
+
+.inputs-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input {
+  width: 80%;
+  align-items: stretch;
+}
+
+.actions {
+  text-align: center;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.link {
+  margin-right: 20px;
+}
+
+.btn {
+  align-self: flex-start;
+  margin-right: 44px;
+}
+
+@media (max-width: 450px) {
+  .link {
+    margin-right: 10px;
+  }
+
+  .btn {
+    align-self: flex-start;
+    margin-right: 24px;
+  }
+}
+
+@media (max-width: 315px) {
+  .actions {
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .btn {
+    align-self: auto;
+    margin-bottom: 10px;
+  }
+}
